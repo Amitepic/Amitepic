@@ -8,7 +8,7 @@ Working as software engineer and I'm highly active person in team contributed my
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [amitkumar112417@gmail.com](mailto:amitkumar112417@gmail.com)
-* 🚀  I'm currently working on [Food app](http://https://github.com/Amitepic/Food-app-React-)
+* 🚀  I'm currently working on [Food app](https://epicamit.netlify.app/)
 * 🧠  I'm learning Fullstack development
 * 🤝  I'm open to collaborating on MERN stack
 
